@@ -94,5 +94,5 @@ GIT
 7. Checking current branch   git branch
 8. checking available branches git fetch
 9. move to new branch 
-    git checkout -b branchname (create &checkout to new branch)
+    git checkout -b branchname (create & checkout to new branch)
     git checkout branchname
